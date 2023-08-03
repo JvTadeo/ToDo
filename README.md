@@ -16,6 +16,6 @@ To get started with this project, follow these steps:
 Now you're all set up and ready to use the project
 
 # Images
-<img src="./src/assets/img/Todo_Preview.png" width="650">
+<img src="./src/assets/img/Todo_Preview.png" width="650" alt="Preview Todo">
 
-<img src="./src/assets/img/Todo_Preview_Tasks.png" width="650">
+<img src="./src/assets/img/Todo_Preview_Tasks.png" width="650" alt="Preview Tasks">
